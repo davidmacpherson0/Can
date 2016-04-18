@@ -12,7 +12,7 @@ namespace Can.Serial
     {
         public Serial()
         {
-            System.Diagnostics.Debug.WriteLine("GO");
+            
         }
 
 

@@ -38,3 +38,13 @@ C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Serial\obj\
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Serial\obj\Debug\Can.Serial.g.resources
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Serial\obj\Debug\Can.Serial.dll
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Serial\obj\Debug\Can.Serial.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.Serial.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.Serial.pdb
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\Can.Serial.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\UI\View\SerialOutputView.g.cs
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\Can.Serial_MarkupCompile.cache
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\Can.Serial_MarkupCompile.lref
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\UI\View\SerialOutputView.baml
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\Can.Serial.g.resources
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\Can.Serial.dll
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\Can.Serial.pdb

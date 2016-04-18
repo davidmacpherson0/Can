@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Serial\obj\Debug\
+C:\Users\David\Documents\GitHub\Can\Can.Serial\obj\Debug\
 Can.Serial
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 1-308151923
 
-5944680134
-731841772978
+51690053417
+73-1345325216
 UI\View\SerialOutputView.xaml;
 
 False

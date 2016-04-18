@@ -28,3 +28,8 @@ C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Common\bin\
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Common\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Common\obj\Debug\Can.Common.dll
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.Common\obj\Debug\Can.Common.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.Common.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.Common.pdb
+C:\Users\David\Documents\GitHub\Can\Can.Common\obj\Debug\Can.Common.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Can\Can.Common\obj\Debug\Can.Common.dll
+C:\Users\David\Documents\GitHub\Can\Can.Common\obj\Debug\Can.Common.pdb

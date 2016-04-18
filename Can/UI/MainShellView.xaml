@@ -12,7 +12,7 @@
             <ColumnDefinition Width="2*"></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        <ContentControl prism:RegionManager.RegionName="SerialOutPut"></ContentControl>
+        <ContentControl prism:RegionManager.RegionName="SerialOutPutUIRegion"></ContentControl>
         
     </Grid>
 </Window>

@@ -33,3 +33,8 @@ C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can\bin\Debug\C
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.DAO\obj\Debug\Can.DAO.csprojResolveAssemblyReference.cache
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.DAO\obj\Debug\Can.DAO.dll
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can.DAO\obj\Debug\Can.DAO.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.DAO.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.DAO.pdb
+C:\Users\David\Documents\GitHub\Can\Can.DAO\obj\Debug\Can.DAO.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Can\Can.DAO\obj\Debug\Can.DAO.dll
+C:\Users\David\Documents\GitHub\Can\Can.DAO\obj\Debug\Can.DAO.pdb

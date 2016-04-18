@@ -42,3 +42,46 @@ C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can\obj\Debug\C
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can\obj\Debug\Can.csproj.GenerateResource.Cache
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can\obj\Debug\Can.exe
 C:\Users\David\Documents\Visual Studio 2015\Projects\Arduino\Can\Can\obj\Debug\Can.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.exe.config
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\Can.exe
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\Can.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.exe
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Prism.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Prism.Wpf.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.Common.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.DAO.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Can.Serial.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Prism.xml
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\Prism.Wpf.xml
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\Can.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\UI\MainShellView.g.cs
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\App.g.cs
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\Can_MarkupCompile.cache
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\Can_MarkupCompile.lref
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\UI\MainShellView.baml
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\Can.g.resources
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\Can.Properties.Resources.resources
+C:\Users\David\Documents\GitHub\Can\Can\obj\Debug\Can.csproj.GenerateResource.Cache
